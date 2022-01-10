@@ -8,7 +8,7 @@ Projeto apresentando o teste para a empresa Super Escola, que propôs a criaçã
 - Django CkEditor 6.2.0
 
 ## Instalação
-- Faça o download do código deste projeto e descompacte--o
+- Faça o download do código deste projeto e descompacte-o
 - Realizar o download da versão do Python correspondente ao seu equipamento: https://www.python.org/downloads/
 - Efetuar a instalação do Python segundo instruções do fornecedor
 - Abrir o terminal de comandos (shell, terminal, cmd...) e efetuar os seguintes comandos:
