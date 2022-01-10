@@ -35,5 +35,5 @@ Para efetuar os testes abra um segundo terminal de comando, mude a pasta para a 
 #### python manage.py test
 
 ## Autor
-###Inácio Pereira Lima Júnior
-####Desenvolvedor Full Stack Java/Python
+### Inácio Pereira Lima Júnior
+#### Desenvolvedor Full Stack Java/Python
