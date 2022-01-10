@@ -20,6 +20,11 @@ Projeto apresentando o teste para a empresa Super Escola, que propôs a criaçã
 - Acessar o sistema pelo link http://localhost:8000/admin e efetuar o login com usuário: admin e senha: admin ou
 - Acessar a api através do link http://localhost:8000/api
 
+## Considerações
+O sistema atualmente possui uma carga de dados que está no banco sqlite que está nos fontes do projeto, para utilizá-lo em um novo banco, será necessário alterar as configurações do banco de dados na sessão: DATABASES do arquivo settings.py e em seguinda, executar os seguintes comandos (também no diretório fonte do projeto) para criação do banco de dados e criação do super usuário respectivamente:
+- python manage.py migrate quiz
+- python manage.py createsuperuser
+
 ## Testes
 O projeto conta com 05 testes automatizados a saber:
 
