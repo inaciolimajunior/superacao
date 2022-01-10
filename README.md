@@ -12,6 +12,6 @@ Projeto apresentando o teste para a empresa Super Escola, que propôs a criaçã
 - Efetuar a instalação do Python segundo instruções do fornecedor
 - Abrir o terminal de comandos (shell, terminal, cmd...) e efetuar os seguintes comandos:
 - - pip install django
-- -pip install django-ckeditor
-- -pip install djangorestframework==3.12.4
+- - pip install django-ckeditor
+- - pip install djangorestframework==3.12.4
 - Faça o download do código deste projeto 
